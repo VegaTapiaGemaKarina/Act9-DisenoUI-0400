@@ -23,5 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/VegaTapiaGemaKarina/Act9-DisenoUI-0400/assets/144732543/a8784ef6-25fb-4b23-a368-7af4c935a9c6)
 ![image](https://github.com/VegaTapiaGemaKarina/Act9-DisenoUI-0400/assets/144732543/f476683a-f3f3-421c-bcd3-0c805aa135a0)
 ![image](https://github.com/VegaTapiaGemaKarina/Act9-DisenoUI-0400/assets/144732543/f781327c-7324-4bdd-8902-a19f2a5de27d)
-![image](https://github.com/VegaTapiaGemaKarina/Act9-DisenoUI-0400/assets/144732543/e0fc6325-335b-445e-aa40-898f083ce008)
+![image](https://github.com/VegaTapiaGemaKarina/Act9-DisenoUI-0400/assets/144732543/d0ef15e7-bb46-4a52-94ed-fac912a855ca)
 
